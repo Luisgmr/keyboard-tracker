@@ -1,2 +1,2 @@
 # Keyboard Tracker
-Rastreador de teclas em Python
+Registro de teclas em Python
